@@ -1,4 +1,4 @@
-# Official Repo of Tree of Thoughts (ToT)
+# Tree of Thoughts (ToT)
 
 <p>
     <a href="https://badge.fury.io/py/tree-of-thoughts-llm">
